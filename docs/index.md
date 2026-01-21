@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Page
+---
+
 # RL: Lecture 3
 
 Backup diagram
